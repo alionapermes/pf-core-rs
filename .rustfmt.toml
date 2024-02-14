@@ -1,0 +1,8 @@
+max_width = 80
+merge_derives = false
+tab_spaces = 2
+
+# imports_layout = "Vertical"
+# normalize_comments = true
+# merge_imports = true
+# format_strings = true
